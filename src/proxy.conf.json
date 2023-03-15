@@ -1,0 +1,7 @@
+{
+    "/authorize?*": {
+        "target": "https://oauth.vk.com",
+        "secure": true,
+        "changeOrigin": true
+    }
+}
