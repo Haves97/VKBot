@@ -23,5 +23,4 @@ export class AuthorizationComponent implements OnInit {
         }
         this.auth.VKAuth(dataAuth);
     }
-
 }
